@@ -1,1 +1,2 @@
 # parcial1analitica
+PARCIAL DE ANAL TICA DE DATOS
